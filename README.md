@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![TestPulse Banner]([./public/og-image](https://play.google.com/store/apps/details?id=com.dreamshapersofficial.app)
+![TestPulse Banner]([./public/og-image](https://www.vecteezy.com/free-vector/exam-logo)
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-testpulse.vercel.app-6C63FF?style=for-the-badge)](https://testpulse.vercel.app)
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/testpulse?style=for-the-badge&color=FFD700)](https://github.com/yourusername/testpulse/stargazers)
