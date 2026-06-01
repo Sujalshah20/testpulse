@@ -1,0 +1,52 @@
+services:
+  # Backend API Service
+  - type: web
+    name: oepp-backend
+    env: node
+    region: oregon
+    plan: free
+    
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && npm start
+    
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: SUPABASE_URL
+        scope: build
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        scope: build
+        sync: false
+      - key: UPSTASH_REDIS_REST_URL
+        scope: build
+        sync: false
+      - key: UPSTASH_REDIS_REST_TOKEN
+        scope: build
+        sync: false
+      - key: JWT_SECRET
+        scope: build
+        sync: false
+      - key: JWT_REFRESH_SECRET
+        scope: build
+        sync: false
+      - key: JWT_EXPIRES_IN
+        value: 15m
+      - key: JWT_REFRESH_EXPIRES_IN
+        value: 7d
+
+  # Frontend Static Site
+  - type: static_site
+    name: oepp-frontend
+    env: static
+    region: oregon
+    plan: free
+    
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: ./frontend/dist
+    
+    envVars:
+      - key: VITE_API_BASE_URL
+        value: https://oepp-backend.onrender.com/api

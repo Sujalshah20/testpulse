@@ -1,0 +1,842 @@
+[
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "What is the full form of CPU?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "Central Processing Unit" },
+      { "value": "B", "text": "Central Program Utility" },
+      { "value": "C", "text": "Core Processing Unit" },
+      { "value": "D", "text": "Central Processor Undertaking" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "Which of the following is NOT a type of computer memory?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "RAM" },
+      { "value": "B", "text": "ROM" },
+      { "value": "C", "text": "ALU" },
+      { "value": "D", "text": "Cache" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "Which number system is used by computers at the hardware level?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "Decimal" },
+      { "value": "B", "text": "Binary" },
+      { "value": "C", "text": "Octal" },
+      { "value": "D", "text": "Hexadecimal" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "What does RAM stand for?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "Random Access Memory" },
+      { "value": "B", "text": "Read Access Memory" },
+      { "value": "C", "text": "Rapid Access Memory" },
+      { "value": "D", "text": "Random Allocation Memory" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "Which of the following is an input device?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "Monitor" },
+      { "value": "B", "text": "Printer" },
+      { "value": "C", "text": "Keyboard" },
+      { "value": "D", "text": "Speaker" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "What is an Operating System?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "A hardware component of the computer" },
+      { "value": "B", "text": "Software that manages hardware and software resources" },
+      { "value": "C", "text": "A programming language" },
+      { "value": "D", "text": "An antivirus program" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "Which of the following is a high-level programming language?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "Machine Code" },
+      { "value": "B", "text": "Assembly Language" },
+      { "value": "C", "text": "Binary" },
+      { "value": "D", "text": "Python" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "What is the purpose of a compiler?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "Translate high-level code to machine code" },
+      { "value": "B", "text": "Execute code line by line" },
+      { "value": "C", "text": "Manage memory allocation" },
+      { "value": "D", "text": "Connect to the internet" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "Which layer of the OSI model handles routing of data packets?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "Data Link Layer" },
+      { "value": "B", "text": "Transport Layer" },
+      { "value": "C", "text": "Network Layer" },
+      { "value": "D", "text": "Session Layer" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "What does BIOS stand for?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "Basic Internal Operating Software" },
+      { "value": "B", "text": "Basic Input Output System" },
+      { "value": "C", "text": "Binary Integrated Output System" },
+      { "value": "D", "text": "Base Input Output Software" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "Which type of software is given free but with restricted features?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "Open Source" },
+      { "value": "B", "text": "Freeware" },
+      { "value": "C", "text": "Firmware" },
+      { "value": "D", "text": "Freemium" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "What is the Von Neumann bottleneck?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "Limited data transfer speed between CPU and memory" },
+      { "value": "B", "text": "CPU overheating during computation" },
+      { "value": "C", "text": "Insufficient storage in ROM" },
+      { "value": "D", "text": "Slow graphics rendering pipeline" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "Which scheduling algorithm gives priority to the shortest job first?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "Round Robin" },
+      { "value": "B", "text": "FCFS" },
+      { "value": "C", "text": "SJF" },
+      { "value": "D", "text": "Priority Scheduling" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "In context of cybersecurity, what is a zero-day vulnerability?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "A virus that activates on day zero of installation" },
+      { "value": "B", "text": "A flaw exploited before the developer releases a patch" },
+      { "value": "C", "text": "A system with zero security measures" },
+      { "value": "D", "text": "A breach that lasts less than 24 hours" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4c",
+    "body": "Which of the following best describes cache memory?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "Permanent storage for OS files" },
+      { "value": "B", "text": "Secondary storage for large files" },
+      { "value": "C", "text": "Virtual memory on the hard disk" },
+      { "value": "D", "text": "High-speed memory between CPU and RAM" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "Which data structure works on the principle of LIFO?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "Queue" },
+      { "value": "B", "text": "Stack" },
+      { "value": "C", "text": "Linked List" },
+      { "value": "D", "text": "Tree" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "Which data structure works on the principle of FIFO?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "Queue" },
+      { "value": "B", "text": "Stack" },
+      { "value": "C", "text": "Graph" },
+      { "value": "D", "text": "Hash Table" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "What is the time complexity of accessing an element in an array?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "O(n)" },
+      { "value": "B", "text": "O(log n)" },
+      { "value": "C", "text": "O(1)" },
+      { "value": "D", "text": "O(n²)" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "A linked list node contains which of the following?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "Only data" },
+      { "value": "B", "text": "Only pointer" },
+      { "value": "C", "text": "Index and data" },
+      { "value": "D", "text": "Data and pointer to next node" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "Which traversal of a Binary Search Tree gives sorted output?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "Pre-order" },
+      { "value": "B", "text": "In-order" },
+      { "value": "C", "text": "Post-order" },
+      { "value": "D", "text": "Level-order" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "What is the worst-case time complexity of Binary Search?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "O(log n)" },
+      { "value": "B", "text": "O(n)" },
+      { "value": "C", "text": "O(1)" },
+      { "value": "D", "text": "O(n log n)" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "Which data structure is used for implementing recursion internally?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "Queue" },
+      { "value": "B", "text": "Array" },
+      { "value": "C", "text": "Stack" },
+      { "value": "D", "text": "Heap" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "In a Max-Heap, the parent node is always?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "Smaller than its children" },
+      { "value": "B", "text": "Greater than or equal to its children" },
+      { "value": "C", "text": "Equal to its children" },
+      { "value": "D", "text": "The leftmost node" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "What is the average time complexity of searching in a Hash Table?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "O(n)" },
+      { "value": "B", "text": "O(log n)" },
+      { "value": "C", "text": "O(n log n)" },
+      { "value": "D", "text": "O(1)" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "Which graph traversal algorithm uses a queue?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "BFS" },
+      { "value": "B", "text": "DFS" },
+      { "value": "C", "text": "Dijkstra" },
+      { "value": "D", "text": "Prim's" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "What is the space complexity of a doubly linked list with n elements?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "O(1)" },
+      { "value": "B", "text": "O(log n)" },
+      { "value": "C", "text": "O(n)" },
+      { "value": "D", "text": "O(n²)" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "What distinguishes an AVL tree from a regular Binary Search Tree?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "It allows duplicate keys" },
+      { "value": "B", "text": "It self-balances by maintaining height difference ≤ 1" },
+      { "value": "C", "text": "It stores data only in leaf nodes" },
+      { "value": "D", "text": "It uses hashing for search" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "Which sorting algorithm has the best average-case time complexity?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "Bubble Sort" },
+      { "value": "B", "text": "Insertion Sort" },
+      { "value": "C", "text": "Selection Sort" },
+      { "value": "D", "text": "Merge Sort" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "In Dijkstra's algorithm, which data structure is most efficiently used for extracting minimum distance?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "Min-Heap / Priority Queue" },
+      { "value": "B", "text": "Stack" },
+      { "value": "C", "text": "Hash Table" },
+      { "value": "D", "text": "Adjacency Matrix" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4d",
+    "body": "What is a B-Tree primarily used for?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "Implementing recursion" },
+      { "value": "B", "text": "Graph traversal" },
+      { "value": "C", "text": "Database indexing and file systems" },
+      { "value": "D", "text": "Sorting large arrays" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "What does HTML stand for?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "Hyper Text Markup Language" },
+      { "value": "B", "text": "Home Tool Markup Language" },
+      { "value": "C", "text": "Hyperlinks and Text Markup Language" },
+      { "value": "D", "text": "Hyper Tool Markup Language" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "Which HTML tag is used to link an external CSS file?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "<style>" },
+      { "value": "B", "text": "<script>" },
+      { "value": "C", "text": "<link>" },
+      { "value": "D", "text": "<css>" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "Which CSS property controls the text size?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "text-style" },
+      { "value": "B", "text": "font-size" },
+      { "value": "C", "text": "text-size" },
+      { "value": "D", "text": "font-weight" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "What does the DOM stand for?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "Document Object Model" },
+      { "value": "B", "text": "Data Object Management" },
+      { "value": "C", "text": "Dynamic Object Manipulation" },
+      { "value": "D", "text": "Document Object Model" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "Which HTTP method is used to send data to a server to create a resource?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "POST" },
+      { "value": "B", "text": "GET" },
+      { "value": "C", "text": "PUT" },
+      { "value": "D", "text": "DELETE" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "Which of the following is a JavaScript framework?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "Django" },
+      { "value": "B", "text": "Laravel" },
+      { "value": "C", "text": "React" },
+      { "value": "D", "text": "Flask" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "What is the purpose of the CSS Box Model?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "Manage server-side rendering" },
+      { "value": "B", "text": "Define layout with margin, border, padding, content" },
+      { "value": "C", "text": "Control JavaScript events" },
+      { "value": "D", "text": "Animate HTML elements" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "What does REST stand for in web development?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "Representational State Transfer" },
+      { "value": "B", "text": "Remote Execution State Transfer" },
+      { "value": "C", "text": "Reliable State Transaction" },
+      { "value": "D", "text": "Resource State Transfer" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "Which of the following status codes means 'Not Found'?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "200" },
+      { "value": "B", "text": "500" },
+      { "value": "C", "text": "301" },
+      { "value": "D", "text": "404" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "What is the use of localStorage in browsers?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "Store data on the server permanently" },
+      { "value": "B", "text": "Cache API responses on the network" },
+      { "value": "C", "text": "Store key-value data in the browser with no expiry" },
+      { "value": "D", "text": "Manage cookies automatically" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "What does CORS stand for and why is it important?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "Client Origin Resource Sharing — manages client sessions" },
+      { "value": "B", "text": "Cross-Origin Resource Sharing — controls cross-domain API access" },
+      { "value": "C", "text": "Cross-Origin Request Security — encrypts API data" },
+      { "value": "D", "text": "Core Object Resource Sharing — caches server responses" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "What is the difference between 'null' and 'undefined' in JavaScript?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "null is intentional absence of value; undefined means variable declared but not assigned" },
+      { "value": "B", "text": "They are exactly the same" },
+      { "value": "C", "text": "undefined is intentional; null is accidental" },
+      { "value": "D", "text": "null is a string type; undefined is a boolean" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "Which of the following best describes Server-Side Rendering (SSR)?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "JavaScript renders the page entirely in the browser" },
+      { "value": "B", "text": "Static HTML is pre-built at compile time" },
+      { "value": "C", "text": "HTML is generated on the server per request and sent to the browser" },
+      { "value": "D", "text": "The browser fetches data and builds the UI after page load" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "What is a JWT (JSON Web Token) used for in web applications?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "Compressing JSON data for faster transfer" },
+      { "value": "B", "text": "Encrypting database records" },
+      { "value": "C", "text": "Styling web components dynamically" },
+      { "value": "D", "text": "Securely transmitting authentication information between parties" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4e",
+    "body": "What is the critical rendering path in web performance?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "The network route data takes from server to browser" },
+      { "value": "B", "text": "The sequence of steps browser takes to convert HTML/CSS/JS to pixels on screen" },
+      { "value": "C", "text": "The order JavaScript functions execute" },
+      { "value": "D", "text": "The CSS specificity resolution order" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What is the value of 0! (zero factorial)?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "1" },
+      { "value": "B", "text": "0" },
+      { "value": "C", "text": "Undefined" },
+      { "value": "D", "text": "Infinity" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "Which of the following is a prime number?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "1" },
+      { "value": "B", "text": "9" },
+      { "value": "C", "text": "13" },
+      { "value": "D", "text": "15" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What is the slope of a horizontal line?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "Undefined" },
+      { "value": "B", "text": "0" },
+      { "value": "C", "text": "1" },
+      { "value": "D", "text": "Infinity" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What is the sum of interior angles of a triangle?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "90°" },
+      { "value": "B", "text": "360°" },
+      { "value": "C", "text": "270°" },
+      { "value": "D", "text": "180°" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What is the value of π (pi) approximately?",
+    "type": "mcq",
+    "difficulty": "easy",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "3.14159" },
+      { "value": "B", "text": "2.71828" },
+      { "value": "C", "text": "1.61803" },
+      { "value": "D", "text": "3.41159" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What is the derivative of sin(x)?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "-sin(x)" },
+      { "value": "B", "text": "tan(x)" },
+      { "value": "C", "text": "cos(x)" },
+      { "value": "D", "text": "-cos(x)" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "Which of the following is the quadratic formula?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "x = -b ± √(b² + 4ac) / 2a" },
+      { "value": "B", "text": "x = -b ± √(b² - 4ac) / 2a" },
+      { "value": "C", "text": "x = b ± √(b² - 4ac) / 2a" },
+      { "value": "D", "text": "x = -b ± √(b - 4ac) / 2a" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What is the determinant of a 2x2 matrix [[a,b],[c,d]]?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "ad - bc" },
+      { "value": "B", "text": "ab - cd" },
+      { "value": "C", "text": "ac - bd" },
+      { "value": "D", "text": "ad + bc" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What is the probability of getting heads in a single fair coin toss?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "1" },
+      { "value": "B", "text": "0" },
+      { "value": "C", "text": "0.25" },
+      { "value": "D", "text": "0.5" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What is the integral of 1/x?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "x + C" },
+      { "value": "B", "text": "1/x² + C" },
+      { "value": "C", "text": "ln|x| + C" },
+      { "value": "D", "text": "e^x + C" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "In set theory, what does A ∩ B represent?",
+    "type": "mcq",
+    "difficulty": "medium",
+    "marks": 1,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "All elements in A or B" },
+      { "value": "B", "text": "Elements common to both A and B" },
+      { "value": "C", "text": "Elements only in A" },
+      { "value": "D", "text": "Elements not in A or B" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What does the Central Limit Theorem state?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "A",
+    "options": [
+      { "value": "A", "text": "The distribution of sample means approaches normal distribution as sample size increases" },
+      { "value": "B", "text": "All data sets follow a normal distribution" },
+      { "value": "C", "text": "The mean equals the median in all distributions" },
+      { "value": "D", "text": "Large data sets have smaller standard deviations" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What is the Euler's identity?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "D",
+    "options": [
+      { "value": "A", "text": "e^iπ = 1" },
+      { "value": "B", "text": "e^iπ + 0 = 1" },
+      { "value": "C", "text": "e^π = -1" },
+      { "value": "D", "text": "e^iπ + 1 = 0" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "In graph theory, what does Euler's theorem state about an Eulerian circuit?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "C",
+    "options": [
+      { "value": "A", "text": "A graph has an Eulerian circuit if it has exactly two odd-degree vertices" },
+      { "value": "B", "text": "Every connected graph has an Eulerian circuit" },
+      { "value": "C", "text": "A graph has an Eulerian circuit if every vertex has even degree" },
+      { "value": "D", "text": "An Eulerian circuit exists only in directed graphs" }
+    ]
+  },
+  {
+    "subject_id": "6a191a257b964d4a0f607d4f",
+    "body": "What is the Big-O notation used for in mathematics and computer science?",
+    "type": "mcq",
+    "difficulty": "hard",
+    "marks": 2,
+    "correct_answer": "B",
+    "options": [
+      { "value": "A", "text": "Measuring physical memory usage exactly" },
+      { "value": "B", "text": "Describing the upper bound of an algorithm's growth rate" },
+      { "value": "C", "text": "Calculating the exact number of operations" },
+      { "value": "D", "text": "Representing binary operations mathematically" }
+    ]
+  }
+]
